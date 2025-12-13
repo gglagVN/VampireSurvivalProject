@@ -74,11 +74,11 @@ Open the scene:
 Assets/Scenes/Menu.unity
    ```
 Press New Game to start the game
-
-📸 Game Link
+---
+## 📸 Game Link
 itch.io
-
-📌 Project Status
+---
+## 📌 Project Status
 🚧 The project is currently under development and improvement.
-
-⭐ If you find this project interesting, please consider giving it a Star to support us!
+---
+## ⭐ If you find this project interesting, please consider giving it a Star to support us!
