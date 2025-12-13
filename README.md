@@ -2,8 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/gglagVN/VampireSurvivalProject.svg?style=flat-square)](https://github.com/gglagVN/VampireSurvivalProject/stargazers)
 [![Issues](https://img.shields.io/github/issues/gglagVN/VampireSurvivalProject.svg?style=flat-square)](https://github.com/gglagVN/VampireSurvivalProject/issues)
-[![License](https://img.shields.io/github/license/gglagVN/VampireSurvivalProject.svg?style=flat-square)](./LICENSE)
-[![Unity](https://img.shields.io/badge/Unity-2022.x-blue.svg?style=flat-square)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-2021.x-blue.svg?style=flat-square)](https://unity.com/)
 
 ---
 
