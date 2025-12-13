@@ -1,90 +1,79 @@
 # Chrono Rift
 
-## 📖 Giới thiệu
-
-**Chrono Rift** là một tựa game **2D hành động – sinh tồn** lấy cảm hứng từ thể loại *Vampire Survivors*, nơi người chơi phải **sống sót trước làn sóng quái vật ngày càng mạnh** trong một thế giới đen tối và khắc nghiệt.
-
-Người chơi sẽ điều khiển nhân vật chính chiến đấu, nâng cấp kỹ năng, mở khóa màn chơi và đối mặt với những con boss nguy hiểm để quyết định **Good Ending** hoặc **Bad Ending** của câu chuyện.
-
----
-
-## 🎮 Thể loại
-
-* Action
-* Survival
-* Rogue-like
-* 2D Game
+## Project Members
+* Dang Tuan Linh (Leader, Unity Developer, Sword Character)
+* Bui Dinh Quyet (VFX, Skill Character)
+* Nguyen Van Tung (UI, Sound)
+* Nguyen Ngoc Hien (Unity Developer, Game Logic, Gun Character)
+* Le Tien Hung (Story, Map)
 
 ---
 
-## ✨ Tính năng nổi bật
+## 📖 Introduction
 
-* ⚔️ **Chiến đấu sinh tồn** với số lượng lớn quái vật
-* 🧠 **Cơ chế nâng cấp kỹ năng** theo thời gian
-* 🌀 **Hiệu ứng cánh bướm**: lựa chọn của người chơi ảnh hưởng đến diễn biến và kết thúc game
-* 🔁 **Hồi sinh tại điểm sử dụng kỹ năng**
-* 👤 **Hợp tác với bản thân** (phiên bản khác của nhân vật)
-* 👹 **Boss battle** với cơ chế riêng
-* 🎭 **Good Ending & Bad Ending** dựa trên quyết định của người chơi
+**Chrono Rift** is a **2D action–survival game** inspired by the *Vampire Survivors* genre, where players must **survive against increasingly powerful waves of monsters** in a dark and hostile world.
+Players control the main character to fight enemies, upgrade stats, unlock stages, and face dangerous boss to save the world.
 
 ---
 
-## 🧩 Lối chơi
+## 🎮 Genre
 
-* Di chuyển nhân vật để né tránh và tấn công quái vật
-* Tiêu diệt kẻ địch để nhận kinh nghiệm và nâng cấp
-* Chọn kỹ năng và vũ khí phù hợp với chiến thuật
-* Sinh tồn càng lâu càng tốt và đánh bại boss cuối
-
----
-
-## 🛠️ Công nghệ sử dụng
-
-* **Engine**: Unity 2D
-* **Ngôn ngữ**: C#
-* **IDE**: Visual Studio / Rider
-* **Quản lý phiên bản**: Git & GitHub
+* Action  
+* Survival  
+* Rogue-like  
+* 2D Game  
 
 ---
 
-## 📂 Cấu trúc thư mục chính
+## ✨ Key Features
 
-```
+* ⚔️ **Survival combat** against massive hordes of enemies  
+* 👹 **Boss battles** with unique mechanics  
+* 🎭 **Diverse gameplay** featuring two main characters: Liam and Aria  
+
+---
+
+## 🧩 Gameplay
+
+* Move your character to dodge and attack enemies  
+* Defeat enemies to gain experience and upgrades  
+* Survive as long as possible and defeat the final boss to clear the stage  
+
+---
+
+## 🛠️ Technologies Used
+
+* **Engine**: Unity 2D  
+* **Language**: C#  
+* **IDE**: Visual Studio / Rider  
+* **Version Control**: Git & GitHub  
+
+---
+
+## 📂 Project Structure
+
 VampireSurvivalProject/
-├── Assets/            # Tài nguyên game (script, sprite, scene, audio...)
-├── Packages/          # Package của Unity
-├── ProjectSettings/   # Cấu hình project
+├── Assets/ # Game assets (scripts, sprites, scenes, audio...)
+├── Packages/ # Unity packages
+├── ProjectSettings/ # Project configuration
 └── README.md
-```
 
----
+## ▶️ How to Run the Project
 
-## ▶️ Hướng dẫn chạy project
-1. Cài đặt **Unity Hub**
-2. Cài phiên bản **Unity 2022.x (hoặc phiên bản dùng trong project)**
-3. Clone project:
+1. Install **Unity Hub**  
+2. Install **Unity 2022.x (or the version used in this project)**  
+3. Clone the repository:
    ```bash
    git clone https://github.com/gglagVN/VampireSurvivalProject.git
-   ```
-4. Mở project bằng Unity Hub
-5. Mở scene:
+Open the project using Unity Hub
 
-   ```
-   Assets/Scenes/MainMenu.unity
-   ```
-6. Nhấn **Play** để trải nghiệm game
----
-## 📸 Link game
+Open the scene: Assets/Scenes/Menu.unity
+Press New Game to start the game
+
+📸 Game Link
 itch.io
 
----
+📌 Project Status
+🚧 The project is currently under development and improvement.
 
-## 📌 Trạng thái dự án
-
-🚧 Dự án đang trong quá trình phát triển và hoàn thiện
-
----
-
-
-
-> ⭐ Nếu bạn thấy dự án thú vị, hãy cho một **Star** để ủng hộ nhé!
+⭐ If you find this project interesting, please consider giving it a Star to support us!
