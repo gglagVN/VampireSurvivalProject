@@ -97,17 +97,9 @@ Notes:
 
 ---
 
-## 🖼 Screenshots & Media
-
-(Replace these with actual images or gif links from /Assets or itch.io)
-- Screenshot: assets/screenshots/menu.png
-- Gameplay GIF: assets/gifs/gameplay-demo.gif
-
----
-
 ## 📎 Game Link
 
-- itch.io: (Add your itch.io page link here)
+- itch.io: https://gglagvn.itch.io/chronorift
 
 ---
 
