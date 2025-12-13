@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58e649c29ff44ab4187112876d9896fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePos: {instanceID: 0}
+  - bulletPrefabs: {fileID: 678733132254889997, guid: 1f733b75601f49c468913265dfbef841, type: 3}
+  - explosionImpactFX: {fileID: 9012004702577750193, guid: f3afd048ae47a8848a47f27e25ada262, type: 3}
+  - reloadPrefabs: {fileID: 7523366231667886080, guid: f784ce80d6693804a80540e4e63c17b5, type: 3}
+  - ultMovePrefab: {fileID: 3328795613667699098, guid: 996cbeb4a59c2b942905403d7a726b0f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6f7cd66f89f4fe340acf93c8dceff5e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slashPrefab: {fileID: 4425544509863617631, guid: 9d1245ac7ea738c4b92c96ca5a6d4b48, type: 3}
+  - multiSlashPrefab: {fileID: 8743721653005386447, guid: 637623e173cab3e4797543e934f73dbd, type: 3}
+  - swordImpactPrefab: {fileID: 2076455730600343475, guid: ff0f3aa50c4a82c4d92db9f39cfead0c, type: 3}
+  - swordKiPrefab: {fileID: 2134484044981464916, guid: 041748e36fc85fc4283fecd20e3b558e, type: 3}
+  - cameraTransform: {instanceID: 0}
+  - srSword: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

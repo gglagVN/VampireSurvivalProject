@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5b1c0550f04793c46b34b410fcf7f9b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ultMovePrefab: {fileID: 3328795613667699098, guid: 996cbeb4a59c2b942905403d7a726b0f, type: 3}
+  - explosionImpactFX: {fileID: 9012004702577750193, guid: f3afd048ae47a8848a47f27e25ada262, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

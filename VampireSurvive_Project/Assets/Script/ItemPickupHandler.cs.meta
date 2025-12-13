@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 769257e40ccfd68469c9df5f3eac970c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healEffectPrefab: {fileID: 9120520849040628704, guid: 5824426779a6aad489a1042d9ddf0e37, type: 3}
+  - manaEffectPrefab: {fileID: 9198602999353082964, guid: 1fbe9cf0eaa4c2645b89e18b758348cb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

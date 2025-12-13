@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a51b1b7653959c24eb574c8dc9d936e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healPotionPrefab: {fileID: 9120520849040628704, guid: 5824426779a6aad489a1042d9ddf0e37, type: 3}
+  - manaPotionPrefab: {fileID: 9198602999353082964, guid: 1fbe9cf0eaa4c2645b89e18b758348cb, type: 3}
+  - expItemPrefab: {fileID: 7195405156955042515, guid: 0e8d930c66e58f544945186f9981a1d0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
