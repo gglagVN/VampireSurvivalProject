@@ -70,9 +70,9 @@ Open the project using Unity Hub
 
 Open the scene:
 
-css
-Sao chép mã
+   ```
 Assets/Scenes/Menu.unity
+   ```
 Press New Game to start the game
 
 📸 Game Link
