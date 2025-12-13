@@ -57,7 +57,7 @@ VampireSurvivalProject/
 ├── Packages/ # Unity packages
 ├── ProjectSettings/ # Project configuration
 └── README.md
-
+---
 
 ## ▶️ How to Run the Project
 
@@ -65,10 +65,10 @@ VampireSurvivalProject/
 2. Install **Unity 2022.x (or the version used in this project)**  
 3. Clone the repository: git clone https://github.com/gglagVN/VampireSurvivalProject.git
 Open the project using Unity Hub
-
 Open the scene: Assets/Scenes/Menu.unity
 Press New Game to start the game
 
+---
 📸 Game Link
 itch.io
 
