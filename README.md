@@ -53,18 +53,16 @@ Players control the main character to fight enemies, upgrade stats, unlock stage
 ## 📂 Project Structure
 
 VampireSurvivalProject/
-├── Assets/ # Game assets (scripts, sprites, scenes, audio...)
-├── Packages/ # Unity packages
-├── ProjectSettings/ # Project configuration
-└── README.md
+├── Assets/ # Game assets (scripts, sprites, scenes, audio...) *
+├── Packages/ # Unity packages *
+├── ProjectSettings/ # Project configuration *
+└── README.md *
 
 ## ▶️ How to Run the Project
 
 1. Install **Unity Hub**  
 2. Install **Unity 2022.x (or the version used in this project)**  
-3. Clone the repository:
-   ```bash
-   git clone https://github.com/gglagVN/VampireSurvivalProject.git
+3. Clone the repository: git clone https://github.com/gglagVN/VampireSurvivalProject.git
 Open the project using Unity Hub
 
 Open the scene: Assets/Scenes/Menu.unity
