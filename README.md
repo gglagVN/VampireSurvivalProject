@@ -51,13 +51,13 @@ Players control the main character to fight enemies, upgrade stats, unlock stage
 ---
 
 ## 📂 Project Structure
-
+```
 VampireSurvivalProject/
 ├── Assets/ # Game assets (scripts, sprites, scenes, audio...)
 ├── Packages/ # Unity packages
 ├── ProjectSettings/ # Project configuration
 └── README.md
----
+```
 
 ## ▶️ How to Run the Project
 
